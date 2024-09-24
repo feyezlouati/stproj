@@ -1,0 +1,16 @@
+.titree {
+    text-transform: uppercase;
+      /* background-image: linear-gradient(to right,#1d6cb5db,#7499b9cf,#78a1c8be); */
+      color: rgb(121, 121, 241);
+      padding-top: 0em;
+      padding-left: 0.5em;
+      margin: 0 0 0.5em 0;
+      margin-top: 30px;
+
+   }
+.greycol th{
+  background-color: #e9e9eb;
+}
+.ms-3 p{
+  color: black;
+}

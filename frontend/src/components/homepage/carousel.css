@@ -1,0 +1,13 @@
+
+.carousel-inner img{
+    
+    height: 400px;
+    
+ 
+ }
+ @media (min-width : 1231px) {
+    .carousel-inner img{
+        height: 400px;
+    }
+    
+ }
